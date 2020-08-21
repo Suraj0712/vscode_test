@@ -1,0 +1,7 @@
+declaration.d
+implementation.d
+main.d
+Makefile
+myapp
+obj/declaration.o
+obj/main.o
