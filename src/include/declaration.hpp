@@ -18,6 +18,7 @@ class Vector
         {
             cout<<my_vector[i]<<" ";
         }
+        cout<<"\n";
     }
 
     private:
